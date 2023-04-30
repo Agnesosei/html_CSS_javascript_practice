@@ -1,0 +1,21 @@
+html{
+    padding-top: 150px;
+    padding-left: 400px;
+    background: rgb(232, 248, 255);
+}
+body{
+    padding: 50PX;
+    background: white;
+    width: 40%;
+
+}
+button{
+    background: rgb(6, 134, 194);
+    color: white;
+    padding: 10px;
+    box-shadow: 0 0 5px 0 black;
+    border: 0px;
+}
+input{
+    padding: 10px;
+}
